@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efb306ab-d4ad-4475-8bff-f0ea21376e6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WPlVB1j5etVhRdGBvnboPCgNwY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RecipeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Recipe Maker" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RecipeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.RecipeKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efb306ab-d4ad-4475-8bff-f0ea21376e6e" name="Default Changelist" comment="" />
+      <created>1579059146086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579059146086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1579059402490">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579059402490" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579060200999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579060200999" />
+    <state width="1237" height="265" key="GridCell.Tab.0.bottom" timestamp="1581655442738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581655442738" />
+    <state width="1237" height="265" key="GridCell.Tab.0.center" timestamp="1581655442737">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581655442737" />
+    <state width="1237" height="265" key="GridCell.Tab.0.left" timestamp="1581655442737">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581655442737" />
+    <state width="1237" height="265" key="GridCell.Tab.0.right" timestamp="1581655442737">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581655442737" />
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1581755617045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581755617045" />
+    <state x="723" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581654538943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="723" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1581654538943" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1581591066835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581591066835" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580537398120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580537398120" />
+  </component>
+</project>
